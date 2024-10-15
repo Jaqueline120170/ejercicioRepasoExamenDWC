@@ -1,2 +1,2 @@
-import { crearListaClientes } from "./fClientes.js";
+import { listaClientes } from "./fClientes.js";
 import { listaHTML } from "./fArticulos.js";
